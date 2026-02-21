@@ -9,7 +9,7 @@ permissions:
   contents: write
   issues: write
   pull-requests: write
-  id-token: writegit commit --allow-empty -m "ci: trigger release workflow"
+  id-token: write
 
 jobs:
   release:
